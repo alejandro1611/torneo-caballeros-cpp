@@ -1,0 +1,12 @@
+# Ejecutables y compilados
+output/
+*.dSYM/
+*.exe
+*.out
+*.o
+*.dat
+.DS_Store
+
+# Archivos temporales o de sistema
+.DS_Store
+temporal.dat
